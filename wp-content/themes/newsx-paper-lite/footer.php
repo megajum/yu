@@ -26,7 +26,7 @@
 			<span class="sep"> | </span>
 			<?php
 			/* translators: 1: Theme name, 2: Theme author. */
-			printf(esc_html__('%1$s by %2$s.', 'newsx-paper-lite'), '<a href="https://wpthemespace.com/product/newsx-paper-lite/">NewsX Paper Lite Theme</a>', 'Wp Theme Space');
+			printf(esc_html__('%1$s by %2$s.', 'newsx-paper-lite'), '<a href="https://poc.groupdesk.io/about/">About</a> | <a href="https://poc.groupdesk.io/contact-us/">Contact Us</a> | <a href="https://poc.groupdesk.io/privacy-policy/">Privacy Policy</a> <a href="https://wpthemespace.com/product/newsx-paper-lite/">NewsX Paper Lite Theme</a>', 'Wp Theme Space');
 			?>
 
 		</div><!-- .site-info -->
